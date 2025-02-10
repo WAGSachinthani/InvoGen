@@ -1,5 +1,5 @@
 # InvoGen - Invoice Generator - Web Application 💻💡
-Aug 2024 - Sep 2024Aug 2024 - Sep 2024
+
 The Invoice Generator is a powerful, web-based app designed to simplify the invoicing process for businesses. Developed with PHP and MySQL, it provides a seamless experience for generating, managing, and printing invoices with just a few clicks! 📄✨
 
 
