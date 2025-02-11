@@ -1,0 +1,12 @@
+{
+  "name": "R&WInvoice",
+  "version": "1.0.0",
+  "description": "Your description here",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^31.4.0"
+  }
+}
